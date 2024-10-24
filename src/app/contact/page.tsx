@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link';
-
+import Image from 'next/image';
 export default function ContactPage() {
   return (
     <div>
@@ -13,7 +13,7 @@ export default function ContactPage() {
               </h1>
             </div>
             <div className=" mt-2">
-              <img
+              <Image
                 src="/smm.png"
                 width={190}
                 height={190}
