@@ -54,16 +54,18 @@ function WebDevelopment() {
             allowing you to sell products online efficiently and securely.
             <br />
             <br />
-            Our commitment to ongoing support means you’re never alone after
-            your site goes live. We provide regular updates, maintenance, and
-            security checks to keep your website running smoothly. Whether you
-            need a simple landing page or a complex web application, we have the
-            expertise to bring your vision to life.
+            Our commitment to ongoing support means you&apos;re never alone
+            after your site goes live. We provide regular updates, maintenance,
+            and security checks to keep your website running smoothly. Whether
+            you need a simple landing page or a complex web application, we have
+            the expertise to bring your vision to life.
             <br />
             <br />
             Partner with us for a customized web development solution that
-            aligns with your goals and enhances your online presence. Let’s
+            aligns with your goals and enhances your online presence. Let&apos;s
             transform your ideas into a powerful digital experience!
+            <br />
+            <br />
           </p>
         </div>
       </div>

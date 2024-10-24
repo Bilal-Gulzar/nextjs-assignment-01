@@ -16,16 +16,17 @@ export default function AboutPage() {
           accounts from major global platforms like Alibaba, Amazon, Payoneer,
           and many more. We are committed to offering secure, ready-to-use
           accounts that meet the diverse needs of businesses, entrepreneurs, and
-          freelancers. Whether you're looking to expand your online presence or
-          streamline international transactions, our verified accounts help you
-          get started instantly and confidently. At AccountsMM, we prioritize
-          security and authenticity, ensuring each account is 100% legitimate
-          and reliable. Our straightforward buying process allows you to acquire
-          accounts with ease, backed by exceptional customer support and timely
-          delivery. We aim to empower businesses by providing the tools they
-          need to succeed in a competitive digital landscape. Trust AccountsMM
-          to be your partner in scaling your online operations with verified
-          accounts from trusted platforms.
+          freelancers. Whether you&apos;re looking to expand your online
+          presence or streamline international transactions, our verified
+          accounts help you get started instantly and confidently. At
+          AccountsMM, we prioritize security and authenticity, ensuring each
+          account is 100% legitimate and reliable. Our straightforward buying
+          process allows you to acquire accounts with ease, backed by
+          exceptional customer support and timely delivery. We aim to empower
+          businesses by providing the tools they need to succeed in a
+          competitive digital landscape. Trust AccountsMM to be your partner in
+          scaling your online operations with verified accounts from trusted
+          platforms.
         </p>
         <div className="relative mt-10">
           <Image
@@ -40,7 +41,7 @@ export default function AboutPage() {
       <div className="px-5 flex  justify-center gap-5 mt-16">
         <Link href="/">
           <button className="px-5 py-2 bg-black rounded-lg text-white">
-          Go Home
+            Go Home
           </button>
         </Link>
       </div>

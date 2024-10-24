@@ -36,8 +36,8 @@ export default function AppDevelopment() {
             services to bring your ideas to life on mobile and web platforms.
             Our experienced team specializes in creating intuitive and
             user-friendly applications that cater to your business needs.
-            Whether you’re looking for native, hybrid, or web-based apps, we
-            have the expertise to deliver high-quality solutions.
+            Whether you&apos;re looking for native, hybrid, or web-based apps,
+            we have the expertise to deliver high-quality solutions.
             <br />
             <br />
             We begin by understanding your vision and requirements, ensuring
@@ -64,10 +64,12 @@ export default function AppDevelopment() {
             <br />
             Post-launch support is part of our commitment to you. We offer
             maintenance, updates, and troubleshooting to ensure your app remains
-            functional and relevant. Whether you’re a startup or an established
-            business, we’re here to turn your app ideas into reality, driving
-            growth and success in the digital landscape. Let’s build something
-            amazing together!
+            functional and relevant. Whether you&apos;re a startup or an
+            established business, we&apos;re here to turn your app ideas into
+            reality, driving growth and success in the digital landscape.
+            Let&apos;s build something amazing together!
+            <br />
+            <br />
           </p>
         </div>
       </div>
